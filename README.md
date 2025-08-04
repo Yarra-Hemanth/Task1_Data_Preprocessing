@@ -1,10 +1,10 @@
-# 🚢 Titanic Survival Prediction - Data Preprocessing
+# Titanic Survival Prediction - Data Preprocessing
 
 This project involves preparing the Titanic dataset for survival prediction using machine learning. Below are the data preprocessing steps followed before model building.
 
 ---
 
-## 🧹 Data Preprocessing Steps
+## Data Preprocessing Steps
 
 ### 🔹 1. Load the Dataset
 - Import the dataset using pandas.
@@ -59,7 +59,7 @@ This project involves preparing the Titanic dataset for survival prediction usin
 
 ---
 
-## ✅ Ready for Model Building
+## Ready for Model Building
 
 Preprocessed data is now ready to be used for classification models such as Logistic Regression, Random Forest, SVM, etc.
 
